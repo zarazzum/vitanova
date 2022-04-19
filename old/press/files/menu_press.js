@@ -123,7 +123,7 @@ menu4=[
 "Dancers","../visual/dancers/dancers.html",,,1,
 "Urban beast","../visual/urban beast/urban.html",,,1,
 "Brain extension exodus","../visual/exodus/exodus.html",,,1,
-"Речники","../visual/riverman/riverman.html",,,1
+"Р РµС‡РЅРёРєРё","../visual/riverman/riverman.html",,,1
 ]
 
 menu5=[

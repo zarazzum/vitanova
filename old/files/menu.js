@@ -114,7 +114,7 @@ menu3=[
 "Dancers","visual/dancers/dancers.html",,,1,
 "Urban beast","visual/urban beast/urban.html",,,1,
 "Brain extension exodus","visual/exodus/exodus.html",,,1,
-"Речники","visual/riverman/riverman.html",,,1
+"Р РµС‡РЅРёРєРё","visual/riverman/riverman.html",,,1
 ]
 
 menu4=[
@@ -132,7 +132,7 @@ menu5=[
 
 menu6=[
 ,,180,1,"",prop1,,"left",effect,,,,,,,
-"Фрейд из фотошопа","press/press.html",,,1
+"Р¤СЂРµР№Рґ РёР· С„РѕС‚РѕС€РѕРїР°","press/press.html",,,1
 ]
 
 menu7=[
